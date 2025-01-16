@@ -1,7 +1,7 @@
 # Hi, I’m Stian Arnesen 👋
 
 ## 🌟 About Me
-I am a passionate developer with over 10 years of experience building professional websites and applications. My journey began at the age of 13 with ActionScript 2.0 (Flash), and since then, I've developed a deep understanding of various programming languages and technologies. I thrive on problem-solving, collaborating with others, and delivering scalable and user-friendly solutions.
+I am a passionate developer with over 10 years of experience building professional websites and applications. My journey began at the age of 13 with the legendary ActionScript 2.0 (Flash), and since then, I've developed a deep understanding of various programming languages and technologies. I thrive on problem-solving, collaborating with others, and delivering scalable and user-friendly solutions.
 
 ## 🔍 Interests
 - **Web Development**  
@@ -14,12 +14,12 @@ I am a passionate developer with over 10 years of experience building profession
     - React (including React Native)  
     - Typescript  
     - Angular  
-    - CSS (Tailwind CSS, Shadcn, LESS, Bootstrap)  
+    - CSS (Tailwind CSS, Shadcn, LESS)  
   - **Backend:**  
     - PHP (Laravel, WordPress)  
     - C# (.NET, Blazor, WebAssembly)  
     - Node.js  
-  - **Databases:** MySQL, SQLite  
+  - **Databases:** MySQL, SQLite, Superbase  
   - **Other Tools:** Docker, REST APIs, CursorAI  
 
 - **Game Development**  
@@ -43,7 +43,7 @@ I am a passionate developer with over 10 years of experience building profession
 - **Email:** [stian_arnesen@outlook.com](mailto:stian_arnesen@outlook.com)  
 
 ## ⚡ Fun Facts
-- My first professional website was a game I developed over two years using HTML, CSS/LESS, JavaScript (jQuery), PHP, and MySQL.  
+- My first website was a game I developed over two years using HTML, CSS/LESS, JavaScript (jQuery), PHP, and MySQL.  
 - I have a knack for working directly with customers, ensuring clear communication and a shared vision for project success.  
 
 Thanks for stopping by! Let's build something amazing together. 🚀
